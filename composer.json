@@ -1,0 +1,19 @@
+{
+    "name": "shieldo/pmpro-gocardless-wp-plugin",
+    "description": "A gateway plugin for GoCardless Pro, for the Paid Memberships Pro Wordpress plugin.",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "^1",
+        "gocardless/gocardless-pro": "^1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Douglas Greenshields",
+            "email": "dgreenshields@gmail.com"
+        }
+    ]
+}
